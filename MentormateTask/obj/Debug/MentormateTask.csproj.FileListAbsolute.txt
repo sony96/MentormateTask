@@ -1,0 +1,7 @@
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\obj\Debug\MentormateTask.csprojAssemblyReference.cache
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\obj\Debug\MentormateTask.csproj.CoreCompileInputs.cache
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\bin\Debug\MentormateTask.exe.config
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\bin\Debug\MentormateTask.exe
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\bin\Debug\MentormateTask.pdb
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\obj\Debug\MentormateTask.exe
+C:\Users\RadoPC\OneDrive\Документи\source\repos\MentormateTask\obj\Debug\MentormateTask.pdb
